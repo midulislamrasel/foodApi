@@ -1,0 +1,100 @@
+[
+  {
+    "foodId": "01",
+    "fName": "Chicken Tikka Masala",
+    "fPrice": "2501",
+    "discro[topn": "Spicy chicken dish with creamy tomato sauce, served with rice.",
+    "mealtype": "Indian"
+  },
+  {
+    "foodId": "02",
+    "fName": "Butter Naan",
+    "fPrice": "1501",
+    "discro[topn": "Soft, leavened flatbread cooked in a tandoor.",
+    "mealtype": "Indian"
+  },
+  {
+    "foodId": "03",
+    "fName": "Samosa Chaat",
+    "fPrice": "1201",
+    "discro[topn": "Crispy fried pastry filled with savory potatoes and peas, topped with chutneys and yogurt.",
+    "mealtype": "Indian"
+  },
+  {
+    "foodId": "04",
+    "fName": "Chicken Biryani",
+    "fPrice": "3001",
+    "discro[topn": "Basmati rice layered with marinated chicken, spices, and vegetables.",
+    "mealtype": "Indian"
+  },
+  {
+    "foodId": "05",
+    "fName": "Tandoori Chicken",
+    "fPrice": "2801",
+    "discro[topn": "Chicken marinated in yogurt and spices, then grilled in a tandoor.",
+    "mealtype": "Indian"
+  },
+  {
+    "foodId": "06",
+    "fName": "Palak Paneer",
+    "fPrice": "2201",
+    "discro[topn": "Cottage cheese cooked in a creamy spinach gravy.",
+    "mealtype": "Indian"
+  },
+  {
+    "foodId": "07",
+    "fName": "Dosa",
+    "fPrice": "1801",
+    "discro[topn": "Thin, crispy crepe made with fermented rice and lentils.",
+    "mealtype": "South Indian"
+  },
+  {
+    "foodId": "08",
+    "fName": "Idli",
+    "fPrice": "1001",
+    "discro[topn": "Steamed rice cakes, often served with chutney and sambar.",
+    "mealtype": "South Indian"
+  },
+  {
+    "foodId": "09",
+    "fName": "Vada",
+    "fPrice": "801",
+    "discro[topn": "Deep-fried savory donut made with lentils and spices.",
+    "mealtype": "South Indian"
+  },
+  {
+    "foodId": "10",
+    "fName": "Uttapam",
+    "fPrice": "1501",
+    "discro[topn": "Thick, fluffy pancake made with fermented rice and lentils, often topped with vegetables.",
+    "mealtype": "South Indian"
+  },
+  {
+    "foodId": "11",
+    "fName": "Chicken Shawarma",
+    "fPrice": "2801",
+    "discro[topn": "Marinated chicken cooked on a rotating spit, served with pita bread, hummus, and salad.",
+    "mealtype": "Middle Eastern"
+  },
+  {
+    "foodId": "12",
+    "fName": "Falafel",
+    "fPrice": "1801",
+    "discro[topn": "Deep-fried balls made with chickpeas, herbs, and spices.",
+    "mealtype": "Middle Eastern"
+  },
+  {
+    "foodId": "13",
+    "fName": "Tabouli",
+    "fPrice": "1001",
+    "discro[topn": "Bulgur wheat salad with parsley, tomatoes, cucumber, and lemon.",
+    "mealtype": "Middle Eastern"
+  },
+  {
+    "foodId": "14",
+    "fName": "Hummus",
+    "fPrice": "1201",
+    "discro[topn": "Dip or spread made with mashed chickpeas, tahini, olive oil, and lemon.",
+    "mealtype": "Middle Eastern"
+  }
+]

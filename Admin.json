@@ -1,0 +1,37 @@
+[
+  {
+    "role": "admin",
+    "email": "email@gmail.com",
+    "password": "75846"
+  },
+  {
+    "role": "admin",
+    "email": "yasin@gmail.com",
+    "password": "12546"
+  },
+  {
+    "role": "admin",
+    "email": "shojib@gmail.com",
+    "password": "45872"
+  },
+  {
+    "role": "admin",
+    "email": "rasel@gmail.com",
+    "password": "48759"
+  },
+  {
+    "role": "admin",
+    "email": "rayhan@gmail.com",
+    "password": "45876"
+  },
+  {
+    "role": "admin",
+    "email": "siam@gmail.com",
+    "password": "45692"
+  },
+  {
+    "role": "admin",
+    "email": "samad@gmail.com",
+    "password": "54824"
+  }
+]
